@@ -4,8 +4,8 @@
     box-sizing: border-box;
     font-family: sans-serif;
     color:#3f4769;
-    font-size: 27px;
-    font-weight: bold;
+    font-size: 24px;
+    font-weight: 600;
     background-color: #fcfcf4;
     text-align: center;
   }
@@ -82,4 +82,14 @@ footer li {
 
 .firstSection{
     justify-content: space-between;
+}
+
+.blueText{
+    color:#1dbcf3;
+    font-size: 38px;
+}
+
+.smallText{
+    font-size: 22px;
+    font-weight: 400
 }
